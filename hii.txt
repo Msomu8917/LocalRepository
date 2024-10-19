@@ -1,0 +1,4 @@
+Git world
+git init is used to initialized a empty repository
+
+git status is used to tracking the file
